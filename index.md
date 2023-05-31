@@ -2,6 +2,9 @@
 # and now for some PowerShell code
 Get-Help Start-Sleep
 ```
+- [ ] Turn on GitHub Pages
+- [ ] Outline my outline
+- [ ] Hide from the world
 
 # The Beatles
 ## Please Please Me
