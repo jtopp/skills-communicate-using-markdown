@@ -1,3 +1,8 @@
+```
+# and now for some PowerShell code
+Get-Help Start-Sleep
+```
+
 # The Beatles
 ## Please Please Me
 ![Please Please Me](https://m.media-amazon.com/images/I/51FBKMqXyOL.jpg)
