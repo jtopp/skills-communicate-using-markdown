@@ -1,5 +1,7 @@
 # The Beatles
 ## Please Please Me
+![Please Please Me](https://m.media-amazon.com/images/I/51FBKMqXyOL.jpg)
+
 I Saw Her Standing There
 
 Misery
@@ -28,6 +30,8 @@ There's A Place
 
 Twist And Shout
 ## With The Beatles
+![With The Beatles](https://m.media-amazon.com/images/I/91Nxj5UJZYL._SL1500_.jpg)
+
 It Won't Be Long
 
 All I've Got To Do
